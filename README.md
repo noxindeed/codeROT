@@ -13,7 +13,7 @@ with codeROT, embrace the pain. embrace ugly, unreadable code.
 ## Note:
 - We set up the flask code, made the ui with html+figma, using AI to help compile it all
 - Deployed using Render.
-- figma file: https://www.figma.com/design/DkrLHszpIodwpagbPZmDfq/badCode?node-id=0-1&t=ZK7TeXUe6C3a5PnH-1
+- [figma file]: (https://www.figma.com/design/DkrLHszpIodwpagbPZmDfq/badCode?node-id=0-1&t=ZK7TeXUe6C3a5PnH-1)
 
 
 
