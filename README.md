@@ -1,5 +1,5 @@
 # codeROT - write code, the bad way 
-## Features- 
+## Features: 
 Brings misery to your code, writing code the normal, organised way? whats that?
 with codeROT, embrace the pain. embrace ugly, unreadable code.
 
@@ -10,7 +10,7 @@ with codeROT, embrace the pain. embrace ugly, unreadable code.
 
 
 
-
+## Note:
 - We wrote set up the flask code, made the ui with html+figma, using AI to help.
 - figma file: 
 
