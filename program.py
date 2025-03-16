@@ -380,4 +380,4 @@ def code_rot_interface():
 ''', output=output, error=error, gemini_response=gemini_response, code=code)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0",port=int(os.getenv("PORT",10000)))
